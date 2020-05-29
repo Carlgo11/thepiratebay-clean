@@ -17,5 +17,5 @@ Either:
 2. Or directly here on [GitHub](https://github.com/Carlgo11/thepiratebay-clean/releases/latest).
 
 ## License
-This work by <a rel="cc:attributionURL" href="https://carlgo11.com"><span rel="cc:attributionName">Carlgo11 </span></a>CC BY-NC 4.0[<img style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-by_icon.svg" /><img  style="height:22px!important;margin-left: 3px;vertical-align:text-bottom;" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg"/>](https://creativecommons.org/licenses/by-nc/4.0)   
+This work by <a rel="cc:attributionURL" href="https://carlgo11.com"><span rel="cc:attributionName">Carlgo11 </span></a>CC BY-NC 4.0[ <img height="22px" src="https://search.creativecommons.org/static/img/cc_icon.svg"/> <img height="22px" src="https://search.creativecommons.org/static/img/cc-by_icon.svg"/> <img height="22px" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg"/>](https://creativecommons.org/licenses/by-nc/4.0)   
 See full [license](LICENSE).
