@@ -4,7 +4,7 @@ _A modern and decluttered take on the classic Pirate Bay theme._
 ![](https://user-images.githubusercontent.com/3535780/83208663-880c7a80-a156-11ea-95a1-c97e30cb45ec.gif)
 
 ## Supports native light and dark themes
-By using CSS [prefers-color-scheme](https://caniuse.com/#feat=prefers-color-scheme) the theme can display a dark grey version of ThePirateBay when dark mode is enabled on the OS and vise versa.
+By using CSS [prefers-color-scheme](https://caniuse.com/#feat=prefers-color-scheme) the theme can display a dark grey version of ThePirateBay when dark mode is enabled on the OS and vice versa.
 
 ## Requirements
 * A style plugin for your browser. (Such as [Stylus](https://add0n.com/stylus.html) or [Stylish](https://userstyles.org/))
