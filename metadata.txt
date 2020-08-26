@@ -1,0 +1,11 @@
+/* ==UserStyle==
+@name           ThePirateBay - Clean
+@namespace      github.com/openstyles/stylus
+@version        0.0.1
+@homepageURL    https://github.com/Carlgo11/thepiratebay-clean
+@downloadURL    https://carlgo11.github.io/thepiratebay-clean/thepiratebay.user.css
+@updateURL      https://carlgo11.github.io/thepiratebay-clean/metadata.txt
+@description    Cleaned up The Pirate Bay theme. Light- & Dark-mode support.
+@author         Carlgo11
+@license        CC BY-NC 4.0
+==/UserStyle== */
