@@ -14,7 +14,7 @@ By using CSS [prefers-color-scheme](https://caniuse.com/#feat=prefers-color-sche
 ## Installation
 Either:
 1. Install from [userstyles.org](https://userstyles.org/styles/184083/)
-2. Or directly here on [GitHub](https://github.com/Carlgo11/thepiratebay-clean/releases/latest).
+2. Or directly here on [GitHub](https://carlgo11.github.io/thepiratebay-clean/thepiratebay.user.css).
 
 ## License
 This work by <a rel="cc:attributionURL" href="https://carlgo11.com"><span rel="cc:attributionName">Carlgo11 </span></a>CC BY-NC 4.0[ <img height="22px" src="https://search.creativecommons.org/static/img/cc_icon.svg"/> <img height="22px" src="https://search.creativecommons.org/static/img/cc-by_icon.svg"/> <img height="22px" src="https://search.creativecommons.org/static/img/cc-nc_icon.svg"/>](https://creativecommons.org/licenses/by-nc/4.0)   

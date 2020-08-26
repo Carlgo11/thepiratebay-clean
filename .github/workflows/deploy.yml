@@ -1,0 +1,21 @@
+name: Deploy
+on: push
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Join CSS
+        run: |
+          cat *.css >> thepiratebay.user.css
+          echo -e "$(cat metadata.txt) \n $(cat thepiratebay.user.css)" > thepiratebay.user.css
+          mkdir public; cp {thepiratebay.user.css,metadata.txt} public/
+
+      - name: Deploy to GH Pages
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          build_dir: public
+          jekyll: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
