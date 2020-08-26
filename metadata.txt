@@ -1,7 +1,7 @@
 /* ==UserStyle==
 @name           ThePirateBay - Clean
 @namespace      com/carlgo11/thepiratebay-clean
-@version        1.1.0
+@version        1.2.0
 @homepageURL    https://github.com/Carlgo11/thepiratebay-clean
 @supportURL     https://github.com/Carlgo11/thepiratebay-clean/issues
 @updateURL      https://carlgo11.github.io/thepiratebay-clean/thepiratebay.user.css

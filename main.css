@@ -100,9 +100,24 @@
         width: 100%;
         margin: 0;
     }
-    .links,
     h1 {
         display: none;
+    }
+    #d:children {
+    display: none;
+    }
+    #d:first-child a {
+      width: max-content;
+      display: block;
+      border-bottom: none;
+      background: #ff9800;
+      font-weight: 200;
+      padding: 0.7rem;
+      color: #000;
+      text-transform: none; 
+    }
+     #d:first-child a:hover {
+      background: #ec6c0aeb;
     }
     #description_container h2 {
         height: 5vh;
